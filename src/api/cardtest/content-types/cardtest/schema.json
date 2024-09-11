@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "cardtests",
+  "info": {
+    "singularName": "cardtest",
+    "pluralName": "cardtests",
+    "displayName": "cardtest"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "testecard": {
+      "type": "string"
+    }
+  }
+}
